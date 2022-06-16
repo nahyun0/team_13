@@ -1,0 +1,131 @@
+a:link{
+    color:black;
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+a:active{
+    color:#ffc0cb;
+}
+
+
+#header{
+    background-color: rgb(253, 236, 228);
+}
+
+#nav{
+    padding: 0px;
+    margin:0;
+    display:inline;
+}
+#nav li{
+    display: inline-block;
+    padding: 10px 100px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: '함초롱바탕';
+}
+
+
+.name{
+border-bottom: 10px double #e3c4f0;
+text-align: center;
+font-family: 'Cascadia Mono Light'}
+
+.list{
+    text-align: center;
+    color: #e3c4f0;
+    font-size: 2em;
+    
+}
+
+.listbox{
+    border: 10px solid #e3c4f0;
+    text-align: center;
+    font-size: 16px;
+    
+}
+.recipe{
+    text-align: center;
+    border-bottom: 2px solid #e3c4f0;
+}
+.start{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Patrick Hand';
+    color: #dbacf0;
+}
+
+.f1{
+    float: left;
+}
+
+
+
+#font{
+    font-family: '나눔고딕';
+    font-size: 18px;
+
+}
+#box{
+    padding: 20px;
+    margin: 50px;
+}
+
+#box2{
+    padding: 50px;
+}
+#box img{
+    width: 350px;
+    height: 350px;
+}
+
+
+#box2 img{
+    width: 300px;
+    padding: 10px 0px;
+    height:200px;
+    margin:0px 5px;
+    
+}
+
+.container{
+    width:100%;
+    border:1px solid black;
+    border-radius: 8px;
+
+}
+
+.container2{
+    width:100%;
+    max-width: 375;
+    border:1px solid #eee;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+.container img{
+    float:left;
+    margin-right: 5px;
+    
+}
+
+.container2 img{
+    float:left;
+    margin-right: 5px;
+    
+}
+.clear{
+    clear: both;
+}
+#footer{
+    background-color: pink;
+    color:white;
+    text-align: center;
+    font-size: 0/85em;
+    padding: 5px 0;}
+
+ 
